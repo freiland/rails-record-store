@@ -1,7 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Ruby on Rails Record Store Application
+
+_This application is a practice for creating a page using the Rails framework. The page establishes a one-to-many relationship between albums and songs and builds out CRUD functionality._
 
 Things you may want to cover:
 
